@@ -1,1 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="Edilson_Service.ServicexD" CodeBehind="ServicexD.svc.cs" %>
